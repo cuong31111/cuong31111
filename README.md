@@ -3,8 +3,7 @@
 🌱 I’m currently learning advanced PHP frameworks like Laravel and improving my Java skills in Spring Boot.  
 💞️ I’m looking to collaborate on open-source projects related to e-commerce platforms, APIs, or any innovative ideas in web development.  
 📫 How to reach me:  
-- Email: your_email@example.com  
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+- Email: cuonghuynh8321@gmail.com   
 - GitHub: [github.com/cuong31111](https://github.com/cuong31111)  
 
 😄 Pronouns: He/Him  
