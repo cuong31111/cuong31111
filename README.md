@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @cuong31111
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hi, I’m @cuong31111  
+👀 I’m interested in web development, backend programming, and learning new technologies.  
+🌱 I’m currently learning advanced PHP frameworks like Laravel and improving my Java skills in Spring Boot.  
+💞️ I’m looking to collaborate on open-source projects related to e-commerce platforms, APIs, or any innovative ideas in web development.  
+📫 How to reach me:  
+- Email: your_email@example.com  
+- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+- GitHub: [github.com/cuong31111](https://github.com/cuong31111)  
 
-<!---
-cuong31111/cuong31111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+😄 Pronouns: He/Him  
+⚡ Fun fact: I can write code for hours but still find time to binge-watch my favorite tech documentaries!  
